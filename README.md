@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my github profile 😎🤙
+
+## I'm currently learning Python, CSS and HTML
+
 
 <!--
 **ReiLoko4/ReiLoko4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
