@@ -1,4 +1,4 @@
-### Welcome to my github profile 😎🤙
+# Welcome to my github profile 😎🤙
 
 ## I'm currently learning Python, CSS and HTML
 ## My current project is [MangaYouKnow](https://github.com/ReiLoko4/MangaYouknow), a desktop app to read and keep yourself updated about your favorite mangas
