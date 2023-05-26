@@ -1,7 +1,8 @@
 ### Welcome to my github profile 😎🤙
 
 ## I'm currently learning Python, CSS and HTML
-## My current project is '[MangaYouKnow](.../MangaYouknow)', a desktop app to update yourself and read mangas
+## My current project is [MangaYouKnow](https://github.com/ReiLoko4/MangaYouknow), a desktop app to read and keep yourself updated about your favorite mangas
+## [Linkedin](https://www.linkedin.com/in/thiagovianavargas/)
 
 
 <!--
