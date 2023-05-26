@@ -1,6 +1,7 @@
 ### Welcome to my github profile 😎🤙
 
 ## I'm currently learning Python, CSS and HTML
+## My current project is '[MangaYouKnow](.../MangaYouknow)', a desktop app to update yourself and read mangas
 
 
 <!--
