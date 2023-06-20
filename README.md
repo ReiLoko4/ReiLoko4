@@ -4,7 +4,7 @@
 ## My current project is [MangaYouKnow](https://github.com/ReiLoko4/MangaYouknow), a desktop app to read and keep yourself updated about your favorite mangas
 ## [Linkedin](https://www.linkedin.com/in/thiagovianavargas/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReiLoko4&layout=compact)](https://github.com/ReiLoko4/ReiLoko4)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReiLoko4&layout=compact)](https://github.com/ReiLoko4/ReiLoko4)
 <!--
 **ReiLoko4/ReiLoko4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
