@@ -5,6 +5,9 @@
 ## [Linkedin](https://www.linkedin.com/in/thiagovianavargas/)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReiLoko4&layout=compact)](https://github.com/ReiLoko4/ReiLoko4)
+<br><br>
+# My country
+<img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="200">
 <!--
 **ReiLoko4/ReiLoko4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
