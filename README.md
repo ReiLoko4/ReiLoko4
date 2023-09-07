@@ -56,7 +56,7 @@
 <h3>Where to find me</h3>
 
 [![Linkedin](https://img.shields.io/badge/-thiagovianavargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagovianavargas/)](https://www.linkedin.com/in/thiagovianavargas/)
-[![Gmail Badge](https://img.shields.io/badge/-thiagovviphone@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagovviphone@gmail.com)](mailto:thiagovviphone@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thiagovianavargas.contact...-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagovianavargas.contact@gmail.com)](mailto:thiagovianavargas.contact@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/ReiLoko4?label=follow&style=social)](https://github.com/ReiLoko4)
 
 
