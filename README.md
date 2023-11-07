@@ -4,7 +4,7 @@
 
 - 🤔 Searching which area will be best for me
 - 🎓 Studying on high school with a technical course on development
-- 💼 Working as a full stack developer in [Facilita System](https://www.linkedin.com/company/facilita-system/)
+- 💼 Searching for a new opportunity to work as a developer intern
 - 🌱 Learning more of Typescript, Docker, AWS every day in work.
 
 <h3>Hard Skills</h3>
