@@ -2,10 +2,10 @@
 
 <h3>About me</h3>
 
-- 🤔 Searching which area will be best for me
+- 🪖 Working at Brazilian army
 - 🎓 Studying on high school with a technical course on development
 - 💼 Searching for a new opportunity to work as a developer intern
-- 🌱 Learning more of Typescript, Docker, AWS every day in work.
+- 🌱 Learning more of Typescript, Nuxt (Vue), Tauri with my project [MangaYouKnow](https://github.com/manga-you-know/desktop).
 
 <h3>Hard Skills</h3>
 
