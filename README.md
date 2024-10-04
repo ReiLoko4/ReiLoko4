@@ -43,7 +43,7 @@
 
 - *Portuguese* > Native level
 - *English* > [B1 level](https://www.efset.org/cert/1B7zUh)
-- *Japanase* > Learning (C1)
+- *Japanase* > Learning (A1)
 
 <br/>
 
