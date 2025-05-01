@@ -20,7 +20,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiloko4&theme=tokyonight) -->
 [![Linkedin](https://img.shields.io/badge/-thiagovianavargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagovianavargas/)](https://www.linkedin.com/in/thiagovianavargas/)
 [![GitHub](https://img.shields.io/github/followers/ReiLoko4?label=follow&style=social)](https://github.com/ReiLoko4)
 ![](https://komarev.com/ghpvc/?username=ReiLoko4&color=006bed)
