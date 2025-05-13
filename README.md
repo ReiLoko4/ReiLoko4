@@ -1,6 +1,4 @@
-
-# Welcome to my Github!
-- 💼 Searching for a new opportunity to learn more
+- 💼 Searching for a new opportunity
 - 🌱 Learning more of Typescript, Svelte, Tauri with my project, [MangaYouKnow](https://github.com/manga-you-know/desktop).
 
 <h3>Tech</h3>
