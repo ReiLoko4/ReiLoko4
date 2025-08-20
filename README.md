@@ -21,6 +21,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiloko4&theme=tokyonight) -->
 [![Linkedin](https://img.shields.io/badge/-thiagovianavargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagovianavargas/)](https://www.linkedin.com/in/thiagovianavargas/)
 [![GitHub](https://img.shields.io/github/followers/ReiLoko4?label=follow&style=social)](https://github.com/ReiLoko4)
-![](https://komarev.com/ghpvc/?username=ReiLoko4&color=006bed&abbreviated=true)
+
 
 
