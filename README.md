@@ -1,25 +1,27 @@
-- 💼 Searching for a new opportunity
-- 🌱 Learning more of Typescript, Svelte, Tauri with my project, [MangaYouKnow](https://github.com/manga-you-know/desktop).
+- Open to new job opportunities
+- Currently developing [MangaYouKnow](https://github.com/manga-you-know/desktop).
 
-<h3>Tech</h3>
+<h3>Stack & tools</h3>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)<br>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)<br>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Nvim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiloko4&theme=tokyonight) -->
-[![Linkedin](https://img.shields.io/badge/-thiagovianavargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagovianavargas/)](https://www.linkedin.com/in/thiagovianavargas/)
+[![Linkedin](https://img.shields.io/badge/-Thiago%20Viana%20Vargas-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/thiagovianavargas/)](https://www.linkedin.com/in/thiagovianavargas/)
 [![GitHub](https://img.shields.io/github/followers/ReiLoko4?label=follow&style=social)](https://github.com/ReiLoko4)
 
 
